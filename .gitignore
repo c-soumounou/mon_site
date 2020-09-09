@@ -1,6 +1,4 @@
-tmp/todo.txt
-<<<<<<< HEAD
+tmp/todo.txt 
 tmp/*.txt
-=======
 tmp/*
->>>>>>> 0f68615bc950641f4b9b12b74a4d4f0cbb410980
+
